@@ -343,7 +343,3 @@ variable "cluster_encryption_config" {
   }))
   default = []
 }
-
-variable "region" {
-  default = "us-west-2"
-}
